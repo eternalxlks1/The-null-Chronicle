@@ -1,0 +1,82 @@
+/* blog.css - Null Chronicle style */
+
+body {
+  font-family: system-ui, Arial, sans-serif;
+  background: #ffffff;
+  color: #111;
+}
+
+/* header logo vibe */
+.blog-header-logo {
+  font-size: 28px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* top spacing like GitHub Pages blog templates */
+.container {
+  max-width: 960px;
+}
+
+/* hero block feel */
+.text-bg-dark {
+  background-color: #111827 !important;
+  color: #fff;
+}
+
+/* cards / posts */
+.border {
+  border-color: #e5e7eb !important;
+}
+
+.rounded {
+  border-radius: 6px !important;
+}
+
+/* muted text like dev notes */
+.text-muted {
+  color: #6b7280 !important;
+}
+
+/* blog links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* sidebar box */
+.bg-light {
+  background-color: #f9fafb !important;
+  border: 1px solid #e5e7eb;
+}
+
+/* footer */
+.blog-footer {
+  padding: 40px 0;
+  font-size: 14px;
+  color: #6b7280;
+}
+
+/* pagination buttons feel slightly flat */
+.btn {
+  font-size: 14px;
+}
+
+/* make list in sidebar feel simple */
+ol.list-unstyled li {
+  padding: 2px 0;
+  color: #374151;
+}
+
+/* slight “template vibe” spacing tweaks */
+h1, h2, h3, h4 {
+  font-weight: 600;
+}
+
+/* remove anything too “modern app” looking */
+.shadow-sm {
+  box-shadow: none !important;
+}
