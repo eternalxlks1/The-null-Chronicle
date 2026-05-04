@@ -1,14 +1,46 @@
 {
   "entries": [
     {
-      "title": "system start",
+      "title": "start",
       "tag": "log",
-      "text": "chronicle initialized"
+      "date": "unknown",
+      "text": "chronicle started. not sure what’s happening."
     },
     {
-      "title": "empty state",
+      "title": "state",
       "tag": "note",
-      "text": "nothing is stored yet"
+      "date": "today",
+      "text": "system is on now i guess."
+    },
+    {
+      "title": "first entry",
+      "tag": "log",
+      "date": "now",
+      "text": "stuff can be added here. nothing special."
+    },
+    {
+      "title": "empty space",
+      "tag": "record",
+      "date": "idk",
+      "text": "this exists but doesn’t really do anything."
+    },
+    {
+      "title": "update",
+      "tag": "system",
+      "date": "sometime",
+      "text": "something changed but i don’t remember what."
+    },
+    {
+      "title": "status",
+      "tag": "note",
+      "date": "current",
+      "text": "everything is running. probably fine."
+    },
+    {
+      "title": "unused entry",
+      "tag": "log",
+      "date": "unknown",
+      "text": "no reason for this to exist yet it does."
     }
   ]
 }
