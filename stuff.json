@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "title": "system start",
+      "tag": "log",
+      "text": "chronicle initialized"
+    },
+    {
+      "title": "empty state",
+      "tag": "note",
+      "text": "nothing is stored yet"
+    }
+  ]
+}
